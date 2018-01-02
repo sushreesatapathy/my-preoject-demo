@@ -1,4 +1,4 @@
-# my-preoject-demo
+# my-project-demo
 This is a demo repository for my project
 
 *sushree*
